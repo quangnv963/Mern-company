@@ -1,0 +1,64 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Rare Earth Magnet",
+            "img":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgVFhYYGBgZGhkYGBoYGBgYGRgYGRoaHBgYGRkcIS4lHCErHxgYJjgnKzExNTU1HSQ7QDszPy40NTEBDAwMEA8QHhERGjEhISE0NDQ0NDQ0NDQ0NDQxNDQ0NDQ0NDE0NDQ0MTE0NDQ0MTQ0ND80NDE0NDQ0NDQ0NDQ0NP/AABEIAKcBLQMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABQYBAwQCB//EAEEQAAICAAMFBQUFBwMCBwAAAAECABEDEiEEBTFBUQYiYXGREzKBobEUI0KCwVJicpKy0fAzouEkNBWjs8LD0vH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGxEBAQEBAQEBAQAAAAAAAAAAAAERAjESQSH/2gAMAwEAAhEDEQA/APs0REBERAREQEREBERAREQEREBERAREQEREBERA1YmKq8SB5ziO+cHk4Plw9ZF76x2XGsEe4LB4XZ4+shsbbSGGVMME/utoeXBhMXpcWwb6web14nh8p24eMrCwQRx0PLrKYm1H3mTDbn7r/q5lL7UdqNpXFwlRwgziwgoHSqN2SNTpJ9VcfYNo3jhJozgE8BxJmr/xjCq7066SpYG8nfCDFUYga2rVd9c2mk9JtjMMpRKGvB//ALx9WmLps+2I4tXU+R+s6JScLbSAVRES+JUEE+PGXDZPcT+EfSa5upY3xETSEREBERAREQEREBERAREQEREBERAREQEREBERAREQMRObG2pVIXiTrQrh1PofSeBvBMuZmCi6ObSjyF8L4SbB2zEjm3qgzaNS6E5T8hWvwnXgY4dQymwfUHmCDwI6RLKK32hX738sr+0+8ssfaP3/AMq/WV7aR3lnO+tRsb3RR/zpPnPaY/fIP3j83B+pn0ZvdnzXtE336ef/AMiaxVX7dx+6E68Kce7v9IAVfjOrZ2JF8+nSuI9ZIOjDGp6185edm9xf4V+glGwWGar4y9bN7i/wj6TfLNboiJtCIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiIFW7TKM+ovuKeWtM2lc5SO1pvZrpgM6cQvG7Bq+BNC+V+Eu/aW/aaVfsxV2R7zcQCCeHWUztSjfZiTlJzKaCkAjWvxE2D3r/d6TnWoldjewlowJRLNIQNBzDX6CXHs6oGCDzZmJ8SDlv0USnbEr5UtkK5E/Awc6D8Weh/LLn2e/wBBfN/62l59Kiu0ofP3clZB7xZTYJ5qD4cpWNuxnVl+7LdCjgg+oBHpLT2gcl2FaBVo9bu/0kBtGpX4j9Jm+ka8PFdlPcCkftPofiqn6T5zvbEK4r+0RSzJWEQ57j+1wzmOgzCgRU+lHN4Vyrj8Z857RH77yUf+qn9oVcd1B/YBiBanUKwLEdKYKPnOvZ9q5DDxbvW1QC+ZvNPO6j918Z2qdTJBu2MEOxyg2FI7wu+fC+gl6wPdXyH0lGwnAceNAf58DLzge6v8I+k3yzW2IibQiIgIiICIiAiIgIiICIiAiIgc+NtSIQGYAngOZ8hNbbco4Wfh+sjd+oCyg/s/qZwK7JwYlRxU6+hPCZ+lxPneA5KfjQmtt4nWlF8tT89JXcTfFfg/33R/lFzmxd9vqAqjoRdj1sH0mb1VxI7f2gxEfKVVU0ps1Ek+JFAf5pwm77aCt5nLdBZ9DesrONvnFJ94DwyIR8wTOPE27EpR7R9VX8RHKuRoDTgB4zOmLfhbdjFlyo+W+8XsADrf6ayUTeoGjFf5lB9Lnz7BfM1kk+LGzJXAM1LSxe8DGDKGU2Dw+Bo/SbpwbmN4Kfm/qad86Mqr2jI9obNfdDWyKGZ7OYe7y5jh4Sl9q8h2U5Wzd8d7Mz0QGzDPrVqCKutal27QE+1NC/u051+J6rTz5iU3tcx+zNa1qo97WtaI0I41pfCcq1Ehu1UCYeUEd1aWnABofg4fKXXs6P8Ap0834Ctc7XKhsDvkw7VayrZD3yGoUr+st/Z7/t0/N/W01z6Vw9o+J/hH1MrmPxX4/wBzJ7tTiqppjVpzBrieLcB8ZXn2hGyU6HTky8a56ydekbD7o+M+b78S8dvEV/5mH/cz6E+0Jkoui8eLqK8eM+ebz2pXxcQgilQvx0IV0Yqp5mhoJFXjcjXgj4SQA4yF7ObUvsVVnS/4h5ix5ScUcfhJB1bPhhmo9PToR4y57MO4ut6DXrpKVsuMgfVlGnWz6DUy7YBtVI4UPpOnKVuiImmSIiAiIgIiICIiAiIgIiICIiBB7/aitKzaG8tWB4A8ecilxA7DKbFNmHMcKtTRB6fGTe+OI8j9ZE4uArGyASOB5/LWc761EIcMjFJIJABrS6Nm9P5Zx4rAcSB5kD6zrfBC90gNWluiOx8SXBM1tiMNAxHkSB6CRXG2zOx0RiOqozf0gzmwEbERMTI6KVq8TIl07DTOw5cuPhN20JfHU9eprjOd0GRKAFh70AsjFcX8hMju2dFH40Pxa/8AajD5yRTEVatxqdBkJJ8jn/8AbIXZZ37OtO70SQiBTxpQCT5d4nXwEsF93HiK2CpXUai+ups+GvKSUhOyV/Z0sEGzx8dZNzrGFY36LxiLo+ySqon33s0eNWPWU3tWjDZnGa2sEXlF6NYoitBZ66S57+A9o2ZcwOGtis3Bn/DxPHgAeEpfaZVGzPlUqvdsKoWtG72RqJHK6+kx01ElsGX2eEVxSwypSZkIOg5gZ/nLl2bH/Tp+bmTXfbTWU7YMQnDwu4ymk73cIHxDZtfKXLs9/oJrY1/qa5eSuHtK9GxxC8vMytbWgfIXAbxOpPxMs3abiP4f1MrTt7o6afKS+kY2dAgzKAuvEafOfP8AtG33gPIhq8dVl6281hP6DzJAHzIlI7WrT4VcwR6Mv+fCRVs3Phq+DTKGF8CAZ2rsOGDoigDhpOHczEYIrky35EgH6yWJAJ+HxPSIO7Z2YsFzEKALA4eAEuWD7q+Q+kp+w+/8/kB+kuGD7q+Q+k3yzWyIiaQiIgIiICIiAiIgIiICIiAiYMzAh99oxyZSAdTqLB4aHmB5SHO0lTTqUPJgC6k+YFj4ivGTu9gaUj94X0OlfSQ+BiZ0BPMa8RrwNfETnfWohMfEDElbcE8UR3Hj7oPjOZ1PJSfii15h2U/KdLoOFUASAK4AGhNKahr0IJ0rldAg85Fc2Jhi/eUDxL2P5UIPrI7Yy4RBjZbBcjIpNhnZjqXHAlgOegkljjScm0UAl9H9faOJPwb8DEQcEb8zKR6ZL+cksFQSDqKN0GfKdKormr5dJDYAPEggdTw9ZL7Fiqw7pz/wW56fguILruPEzYQ8Cy6AAAA6ChpwIknI3ciEYS3YuzRBBF8iCAQfAySnWMK5vwH2mlf6fMGj3jXA6fPjKV2sDnZsX3bpNAGYEW+l2Dfwly36w9tTWB7HRgSBqxzajhwXjKj2kC/Z8TKxPud8sz5W73FhZAGnzmOmo7d3o4wsG2DLSaZKbWvxZq/2y59nv+3T839baSj7qyezwcqMjUnFHVR11IyS79nv+3T839bay8lcHafj+T9TK3iDgeuvyoyc7VYCs4JBsIKIZlNWdLUgytvsrWMuK48DkYDyzJcl9I6WwwykHUGwfKfPO06M2IgUFsneatcqKVDM3QWw18Z9CXCYC2d28O4o8+6gM+ddo9mZcRTb5XpXJLAMpZBkJ4EWQa8JFXfcqg4fx9eEkyDdjWv1kXuTZsuCArOPiG+TKZ34eHifixFIvkig158PlEEpsBp/y/5+suGF7q+Q+kp+ypbjU+os2PACXFOA8hNxmvcRE0hERAREQEREBERAREQEREDEzNZbWM0CP33hhlUEWM3zo0QeRkJTr7pDr0c0w/PWo8xfjJrfZAw82ujA6AknQjQD1+EhVxgQCCCD0+czViIxC7ahFF/tuwNHplRv0ng4T/tIPyM/+7Ov0nVhKQDYa7N2bBP7uug9BwmKPP8Av5fKZacD7Nr3ncjoDhqD/sLD1kbsOy+yQAFmt8Rrd3c953422QnqcosybdTZJ4UKPIdQRIzB2hHBVHVyjOrBWDEHMSRQs85BrTFYGxlU9VREP8yqDO/Dx2b3nZv4mLfWaMLBBAOo01DDLrx0zVpO7AwfL4mvmgYSQW/s1/pH+M/RZLyI3AQMOh+0b86HDwqpJlp2njFVze20k7QUC3lwrGoBa2Ggv9a85Ve1eITs+KSpHdUFWYBiv3hJBTMBoTz5cJa9+C8ZaOUnCNGlNkOOII1q/mesp/alHXZsXM4LUhU0qAm2paOnz5zn01ElsGf2OCHy/g1UMOemh/vLl2fH/Tp+b+tpRN1MhTCCYhY0vcOIWI0/ZJzS67lxawE/P1/bbrLyVH9pj36/cH1Mgjx+H+fpJLfuLmxLHJQvpz+cjc1f5wkvpHRgJmIU2BRNqaNiq1rTiZsbDY93O4GoJDglgeRBSuU07I1uLHAGgFJI4a6DT/meA+HnNYxZtaT27HvDgMma/hIqL3dtqttL7Nkyoqrke+8W7xexQQ8F0AFXLLhk0BZAFe6QD8gB/wDkoO52wv8AxB2zEA5q1dMrV32J0rMSKN65PCXTZmw77uNnPIe3z3+UNrEHZsxpz6emly2pwHkJT9n4mtBZ5EczyPCWrZ8a1HlNxmumJ5BmZpGYiICIiAiIgIiICIiAiIgcmKTZnkEze41mtll1HBvgnIP4h9DK++ECbBKt1Fa+YOjfGT+24BYU1kSCxtmdTpZHzH95itRyBMQ3ncg2ayBOFmrzKdaq68Zoxk7wBZuB1LuoJ5CkIW/P0nUysSaDHyUzH2XEPBPUgfTWZxpzDCS7yqT1IBPqRfKadnw0BelAtyTpxJAJJ9ZJLuxzzUep/tNuz7nILWzGzZ90C6A008BL81NcKkchNyOekk03ao/D6kmdOHsgHID4R801u3I9Iw/ev5CSgecuzIKnWhE3IzUBv4feralgcJwRQOmZdKJs30F8JT+0yr9kxyqFVyjMAgQ8wWCtVkCXPf7HOhBA+7fiL/EvQiU3tSznZMYEoTQ0UEAgHUHMTofpOfTUSO7GcphhkrRbIYMP7/KW3deAWwU4cDzv8Tc5SdyOfZ4ZOIzAKNDkrhwsKD+su25toX2KDNwsEE0fePWXkrVt27gSAQD4/wDMjsXcwPX+YywNtKk9Z5bGE3kZ1W/sPs3Uge8G95jWmXoD16TSuMxYj2TD94smX5Et8pLb1cFk72X361As9ytDx5yL+zPZtzXTIgNeZH6THU/rUU3cjP8Ab8U5Bmrvd+xVNky2o196/h4y3YeK9H7oqerFMupoE5WJI58JUtw4bHbXHtGrv5CPZkueGJYy8iFHhy4mXFMJ+DvYOmiKPXNY+FTKu7deECSKsrzJLa8Tqeub5aSxph1I7deUIKA1JJIrXvGiSOOlSVUidJ4xWRPQgQJRmIiAiIgIiICIiAiIgIiIHgjWeck2zFQObHwzRnGdnJ5STaeIEd9nPSPYHpJGoowI72R6GY9n4STyzAECMKGAnW5KZJnKOkDj2fD0NdfGemw2nXUxcqK5vPYCzZjxojXp4HiOMh9p3LnRleqIqwLIHA0SND4y7PR4zUyCuEzeWtVLd24wgVQzlQKFkHTzqWDYthpBQP8AzwnWiDpNoNc5ZMTXI+zkGp59iek7s0855RBb0Qgp3SbDjTLQHd42RfkLkAE2fMaw9dTXsMTQ86tKEs2/W1w6I/Hyv9nxEgTiYlm1QDrnZvLu5B9Zz69aindnBhna8XNhk6d5ThZghWwooWTa02g04cRLnsXsbtF73IlHWvJnUAH4iU/sw+INqxDSCw3eysBiUzUbzGsvu6dNdZcdnd295UUXYIdn8OBReR6zMVZN34RKKetmtOp6EySw1NTj3Y/3aWRdcvM8p2q06sPQBnsTAMyIGYiICIiAiIgIiICIiAiIgIiIGLi5mYgJiZioGKiomCIHqYnkiYKwPRE8tPSrBWXUczia2nTipNOQ1A16z2iEiFQ/4J04a0IHJiIamqjzudmNfITS1wqC3rsrOwIWwAQKNML4kE+QkLibK+tLiE8BbgD1Bv5y5+zvjNf2YcamLyuvnu7t0YqPbYaFddUZkxBbMx7+YWO9w4Xyk5s2yvfuuR0Zx9QRcs6YC9JsTZh0jDXLutGRculE3Q4C5JKTNaYdTrCzSPCzaIqBAzERAREQEREBERAREQEREBERAREQEREBERATFREBFxEDyTU85hMxEGbmLiJUeGea2cREDyHmFeIhRanpKiIRvw+s93EQrIMCIkGYiICIiAiIgf/Z",
+            "desc":"The most powerful permanent magnet, offers a great return for cost & performance, have the highest field/surface strength(Br), high coercivity(Hc), can be easily formed into various shapes and sizes. Be reactive with moisture and oxygen,usualy supplied by plating (Nickel, Zinc, Passivatation, Epoxy coating, etc.).",
+            "app":"Electronic consumer goods,Sensors,motors,filter automobiles,magnetics holders,loudspeakers,wind generators, medical equipments, etc."
+        },
+        {
+            "id":2,
+            "name":"Encapsulation Materials for Semiconductor",
+            "img":"https://www.engineering.com/portals/0/BlogFiles/2363013_20151001_Encap_Material.jpg",
+            "desc":"Semiconductor Packaging Encapsulation Materials for Advanced Package 'LEXCM CF', 'LEXCM DF' series",
+            "app":"Encapsulation materials in the semiconductor industry are used to protect and insulate the semiconductor devices from external environmental factors and physical damage. These materials are typically applied in liquid or solid form, and then cured or hardened to form a protective layer around the device."
+        },
+        {
+            "id":3,
+            "name":"Silicones",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMmW6LeLzkJvBKQmPqm6Orjo7_2b5IOOGVTkUIGpBJpgU1biHzX3BCh3TfaO7AJTa3GFk&usqp=CAU",
+            "desc":"Silicon Metal is a very important industrial product can be used in steel-making, cast iron, aluminum (aviation, aircraft & automobile parts production), and silicon optoelectronic device and many other industries. It's known as the 'salt' of modern industries. Metal silicon is made from quartz and coke in electric heating furnace smelting products. The main ingredient of silicon content is about 98%. The rest of impurities is iron, aluminum and calcium etc.",
+            "app":"Aluminum alloy ingot production, as additive of silicon content."
+        }
+    ],
+    "news":[
+        {
+            "id":1,
+            "img":"https://www.mdpi.com/materproc/materproc-05-00074/article_deploy/html/images/materproc-05-00074-g001-550.jpg",
+            "title":"Raw Material Price Of Neodymium Magnet Stand High Level Again",
+            "content":"abc",
+            "date":"08-29-2023"
+        },
+        {
+            "id":2,
+            "img":"https://www.eclipsemagnetics.com/site/assets/files/32931/rare_earth_neodymium_applicaitions.793x0-is.png",
+            "title":"Need A Quote?How To Get A Guote Quickly From KINGS",
+            "content":"abc",
+            "date":"08-29-2023"
+        },
+        {
+            "id":3,
+            "img":"https://www.eclipsemagnetics.com/site/assets/files/32931/rare_earth_neodymium_applicaitions.793x0-is.png",
+            "title":"",
+            "content":"",
+            "date":""
+        },
+        {
+            "id":4,
+            "img":"https://www.eclipsemagnetics.com/site/assets/files/32931/rare_earth_neodymium_applicaitions.793x0-is.png",
+            "title":"",
+            "content":"",
+            "date":""
+        }
+    ],
+    "users":[
+        {
+            "id":1,
+            "name":"Nguyễn Việt Quang",
+            "email":"quang123@gmail.com",
+            "password":"abc",
+            "role":true
+        }
+    ]
+}

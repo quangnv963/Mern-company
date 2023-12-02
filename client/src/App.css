@@ -1,0 +1,45 @@
+.parent{
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+.child{
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    transition: all 1.1s;
+}
+
+.parent:hover .child{
+    transform: scale(1.2);
+}
+
+.ef{
+    opacity: 0;
+    filter: blur(2px);
+    transform: translateY(50%);
+    transition: all 1.5s;
+}
+.show{
+    filter: blur(0);
+    transform: translateY(0);
+    opacity: 1;
+}
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .fade {
+    animation-name: fadeIn;
+    animation-duration: 0.5s;
+  }
